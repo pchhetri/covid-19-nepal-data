@@ -29,6 +29,7 @@ function appendOverviewCsv(normalizedJson) {
     'date',
     'confirmed',
     'active',
+    'deaths',
     'recovered',
     'readmitted',
   ];
