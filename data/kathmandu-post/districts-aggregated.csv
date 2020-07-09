@@ -1,0 +1,155 @@
+Date,Province,District,Confirmed,Deaths,Recovered,Readmitted
+2020-07-07,Province 1,Bhojpur,6,0,6,0
+2020-07-07,Province 1,Dhankuta,9,0,7,0
+2020-07-07,Province 1,Ilam,14,0,2,0
+2020-07-07,Province 1,Jhapa,286,0,182,0
+2020-07-07,Province 1,Khotang,14,0,5,0
+2020-07-07,Province 1,Morang,183,0,92,0
+2020-07-07,Province 1,Okhaldhunga,6,0,0,0
+2020-07-07,Province 1,Panchthar,5,0,3,0
+2020-07-07,Province 1,Sankhuwasabha,6,0,2,0
+2020-07-07,Province 1,Solukhumbu,1,0,1,0
+2020-07-07,Province 1,Sunsari,97,0,54,0
+2020-07-07,Province 1,Taplejung,11,0,4,0
+2020-07-07,Province 1,Terhathum,5,0,3,0
+2020-07-07,Province 1,Udayapur,77,0,38,0
+2020-07-07,Province 2,Bara,128,2,71,0
+2020-07-07,Province 2,Dhanusa,490,0,237,0
+2020-07-07,Province 2,Mahottari,755,0,83,0
+2020-07-07,Province 2,Parsa,172,1,188,1
+2020-07-07,Province 2,Rautahat,1428,1,370,1
+2020-07-07,Province 2,Saptari,316,0,130,0
+2020-07-07,Province 2,Sarlahi,690,0,226,0
+2020-07-07,Province 2,Siraha,231,0,86,0
+2020-07-07,Bagmati,Bhaktapur,42,0,8,0
+2020-07-07,Bagmati,Chitwan,92,1,28,0
+2020-07-07,Bagmati,Dhading,148,0,75,0
+2020-07-07,Bagmati,Dolakha,8,1,3,0
+2020-07-07,Bagmati,Kathmandu,174,1,29,2
+2020-07-07,Bagmati,Kavrepalanchok,10,0,6,0
+2020-07-07,Bagmati,Lalitpur,48,2,2,0
+2020-07-07,Bagmati,Makwanpur,27,0,11,0
+2020-07-07,Bagmati,Nuwakot,24,0,10,0
+2020-07-07,Bagmati,Ramechhap,32,0,16,0
+2020-07-07,Bagmati,Rasuwa,10,0,0,0
+2020-07-07,Bagmati,Sindhuli,15,0,6,0
+2020-07-07,Bagmati,Sindhupalchok,54,1,1,0
+2020-07-07,Gandaki,Baglung,211,1,13,0
+2020-07-07,Gandaki,Gorkha,109,1,10,0
+2020-07-07,Gandaki,Kaski,67,0,20,0
+2020-07-07,Gandaki,Lamjung,63,0,1,0
+2020-07-07,Gandaki,Manang,1,0,0,0
+2020-07-07,Gandaki,Mustang,1,0,0,0
+2020-07-07,Gandaki,Myagdi,23,1,5,0
+2020-07-07,Gandaki,Nawalpur,283,0,10,0
+2020-07-07,Gandaki,Parbat,91,0,9,0
+2020-07-07,Gandaki,Syangja,202,2,51,0
+2020-07-07,Gandaki,Tanahun,142,0,14,0
+2020-07-07,Province 5,Arghakhanchi,338,2,2,0
+2020-07-07,Province 5,Banke,377,2,361,0
+2020-07-07,Province 5,Bardiya,189,0,11,0
+2020-07-07,Province 5,Dang Deukhuri,629,1,89,0
+2020-07-07,Province 5,Eastern Rukum,5,0,3,0
+2020-07-07,Province 5,Gulmi,347,3,21,0
+2020-07-07,Province 5,Kapilvastu,756,0,343,0
+2020-07-07,Province 5,Palpa,544,1,1,0
+2020-07-07,Province 5,Parasi,105,0,17,0
+2020-07-07,Province 5,Pyuthan,323,0,1,0
+2020-07-07,Province 5,Rolpa,51,0,0,0
+2020-07-07,Province 5,Rupandehi,320,1,56,0
+2020-07-07,Karnali,Dailekh,799,2,308,0
+2020-07-07,Karnali,Dolpa,4,1,0,0
+2020-07-07,Karnali,Humla,2,0,1,0
+2020-07-07,Karnali,Jajarkot,14,0,0,0
+2020-07-07,Karnali,Jumla,40,0,25,0
+2020-07-07,Karnali,Kalikot,53,0,52,0
+2020-07-07,Karnali,Mugu,2,0,1,0
+2020-07-07,Karnali,Salyan,239,0,48,0
+2020-07-07,Karnali,Surkhet,410,1,119,0
+2020-07-07,Karnali,Western Rukum,21,0,0,0
+2020-07-07,Sudurpashchim,Achham,598,1,7,0
+2020-07-07,Sudurpashchim,Baitadi,272,0,5,0
+2020-07-07,Sudurpashchim,Bajhang,146,0,1,0
+2020-07-07,Sudurpashchim,Bajura,623,1,0,0
+2020-07-07,Sudurpashchim,Dadeldhura,281,0,8,0
+2020-07-07,Sudurpashchim,Darchula,17,0,3,0
+2020-07-07,Sudurpashchim,Doti,563,0,10,0
+2020-07-07,Sudurpashchim,Kailali,864,4,34,0
+2020-07-07,Sudurpashchim,Kanchanpur,429,0,7,0
+2020-07-08,Province 1,Bhojpur,6,0,6,0
+2020-07-08,Province 1,Dhankuta,9,0,7,0
+2020-07-08,Province 1,Ilam,16,0,2,0
+2020-07-08,Province 1,Jhapa,294,0,182,0
+2020-07-08,Province 1,Khotang,14,0,5,0
+2020-07-08,Province 1,Morang,187,0,92,0
+2020-07-08,Province 1,Okhaldhunga,6,0,0,0
+2020-07-08,Province 1,Panchthar,5,0,3,0
+2020-07-08,Province 1,Sankhuwasabha,6,0,2,0
+2020-07-08,Province 1,Solukhumbu,1,0,1,0
+2020-07-08,Province 1,Sunsari,100,0,54,0
+2020-07-08,Province 1,Taplejung,11,0,4,0
+2020-07-08,Province 1,Terhathum,6,0,3,0
+2020-07-08,Province 1,Udayapur,77,0,38,0
+2020-07-08,Province 2,Bara,129,2,71,0
+2020-07-08,Province 2,Dhanusa,490,0,237,0
+2020-07-08,Province 2,Mahottari,755,0,83,0
+2020-07-08,Province 2,Parsa,173,1,188,1
+2020-07-08,Province 2,Rautahat,1461,1,370,1
+2020-07-08,Province 2,Saptari,320,0,130,0
+2020-07-08,Province 2,Sarlahi,693,0,226,0
+2020-07-08,Province 2,Siraha,233,0,86,0
+2020-07-08,Bagmati,Bhaktapur,42,0,8,0
+2020-07-08,Bagmati,Chitwan,97,1,28,0
+2020-07-08,Bagmati,Dhading,149,0,75,0
+2020-07-08,Bagmati,Dolakha,9,1,3,0
+2020-07-08,Bagmati,Kathmandu,190,1,29,2
+2020-07-08,Bagmati,Kavrepalanchok,12,0,6,0
+2020-07-08,Bagmati,Lalitpur,55,2,2,0
+2020-07-08,Bagmati,Makwanpur,27,0,11,0
+2020-07-08,Bagmati,Nuwakot,24,0,10,0
+2020-07-08,Bagmati,Ramechhap,34,0,16,0
+2020-07-08,Bagmati,Rasuwa,10,0,0,0
+2020-07-08,Bagmati,Sindhuli,15,0,6,0
+2020-07-08,Bagmati,Sindhupalchok,55,1,1,0
+2020-07-08,Gandaki,Baglung,211,1,13,0
+2020-07-08,Gandaki,Gorkha,111,1,10,0
+2020-07-08,Gandaki,Kaski,81,0,20,0
+2020-07-08,Gandaki,Lamjung,64,0,1,0
+2020-07-08,Gandaki,Manang,1,0,0,0
+2020-07-08,Gandaki,Mustang,1,0,0,0
+2020-07-08,Gandaki,Myagdi,24,1,5,0
+2020-07-08,Gandaki,Nawalpur,286,0,10,0
+2020-07-08,Gandaki,Parbat,91,0,9,0
+2020-07-08,Gandaki,Syangja,202,2,51,0
+2020-07-08,Gandaki,Tanahun,142,0,14,0
+2020-07-08,Province 5,Arghakhanchi,338,2,2,0
+2020-07-08,Province 5,Banke,379,2,361,0
+2020-07-08,Province 5,Bardiya,189,0,11,0
+2020-07-08,Province 5,Dang Deukhuri,634,1,89,0
+2020-07-08,Province 5,Eastern Rukum,5,0,3,0
+2020-07-08,Province 5,Gulmi,350,3,21,0
+2020-07-08,Province 5,Kapilvastu,756,0,343,0
+2020-07-08,Province 5,Palpa,549,1,1,0
+2020-07-08,Province 5,Parasi,105,0,17,0
+2020-07-08,Province 5,Pyuthan,324,0,1,0
+2020-07-08,Province 5,Rolpa,51,0,0,0
+2020-07-08,Province 5,Rupandehi,320,1,56,0
+2020-07-08,Karnali,Dailekh,804,2,308,0
+2020-07-08,Karnali,Dolpa,4,1,0,0
+2020-07-08,Karnali,Humla,2,0,1,0
+2020-07-08,Karnali,Jajarkot,15,0,0,0
+2020-07-08,Karnali,Jumla,40,0,25,0
+2020-07-08,Karnali,Kalikot,54,0,52,0
+2020-07-08,Karnali,Mugu,4,0,1,0
+2020-07-08,Karnali,Salyan,239,0,48,0
+2020-07-08,Karnali,Surkhet,424,1,119,0
+2020-07-08,Karnali,Western Rukum,28,0,0,0
+2020-07-08,Sudurpashchim,Achham,620,1,7,0
+2020-07-08,Sudurpashchim,Baitadi,274,0,5,0
+2020-07-08,Sudurpashchim,Bajhang,150,0,1,0
+2020-07-08,Sudurpashchim,Bajura,623,1,0,0
+2020-07-08,Sudurpashchim,Dadeldhura,283,0,8,0
+2020-07-08,Sudurpashchim,Darchula,18,0,3,0
+2020-07-08,Sudurpashchim,Doti,575,0,10,0
+2020-07-08,Sudurpashchim,Kailali,900,4,34,0
+2020-07-08,Sudurpashchim,Kanchanpur,441,0,7,0

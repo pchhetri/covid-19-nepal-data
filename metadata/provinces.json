@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Province 1",
+    "number": 1,
+    "alternate_names": ["Province No. 1"]
+  },
+  {
+    "name": "Province 2",
+    "number": 2,
+    "alternate_names": ["Province No. 2"]
+  },
+  {
+    "name": "Bagmati",
+    "number": 3,
+    "alternate_names": ["Province 3", "Province No. 3", "Bagmati Pradesh"]
+  },
+  {
+    "name": "Gandaki",
+    "number": 4,
+    "alternate_names": ["Province 4", "Province No. 4", "Gandaki Pradesh"]
+  },
+  {
+    "name": "Province 5",
+    "number": 5,
+    "alternate_names": ["Province No. 5"]
+  },
+  {
+    "name": "Karnali",
+    "number": 6,
+    "alternate_names": ["Province 6", "Province No. 6", "Karnali Pradesh"]
+  },
+  {
+    "name": "Sudurpashchim",
+    "number": 7,
+    "alternate_names": ["Province 7", "Province No. 7", "Sudurpashchim Pradesh"]
+  }
+]

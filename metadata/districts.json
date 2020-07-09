@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Bhojpur",
+    "province_number": 1,
+    "alternate_names": []
+  },
+  {
+    "name": "Dhankuta",
+    "province_number": 1,
+    "alternate_names": []
+  },
+  {
+    "name": "Ilam",
+    "province_number": 1,
+    "alternate_names": ["Illam"]
+  },
+  {
+    "name": "Jhapa",
+    "province_number": 1,
+    "alternate_names": []
+  },
+  {
+    "name": "Khotang",
+    "province_number": 1,
+    "alternate_names": []
+  },
+  {
+    "name": "Morang",
+    "province_number": 1,
+    "alternate_names": []
+  },
+  {
+    "name": "Okhaldhunga",
+    "province_number": 1,
+    "alternate_names": []
+  },
+  {
+    "name": "Panchthar",
+    "province_number": 1,
+    "alternate_names": []
+  },
+  {
+    "name": "Sankhuwasabha",
+    "province_number": 1,
+    "alternate_names": []
+  },
+  {
+    "name": "Solukhumbu",
+    "province_number": 1,
+    "alternate_names": []
+  },
+  {
+    "name": "Sunsari",
+    "province_number": 1,
+    "alternate_names": []
+  },
+  {
+    "name": "Taplejung",
+    "province_number": 1,
+    "alternate_names": []
+  },
+  {
+    "name": "Terhathum",
+    "province_number": 1,
+    "alternate_names": []
+  },
+  {
+    "name": "Udayapur",
+    "province_number": 1,
+    "alternate_names": []
+  },
+  {
+    "name": "Bara",
+    "province_number": 2,
+    "alternate_names": []
+  },
+  {
+    "name": "Dhanusa",
+    "province_number": 2,
+    "alternate_names": []
+  },
+  {
+    "name": "Mahottari",
+    "province_number": 2,
+    "alternate_names": []
+  },
+  {
+    "name": "Parsa",
+    "province_number": 2,
+    "alternate_names": []
+  },
+  {
+    "name": "Rautahat",
+    "province_number": 2,
+    "alternate_names": []
+  },
+  {
+    "name": "Saptari",
+    "province_number": 2,
+    "alternate_names": []
+  },
+  {
+    "name": "Sarlahi",
+    "province_number": 2,
+    "alternate_names": []
+  },
+  {
+    "name": "Siraha",
+    "province_number": 2,
+    "alternate_names": []
+  },
+  {
+    "name": "Bhaktapur",
+    "province_number": 3,
+    "alternate_names": []
+  },
+  {
+    "name": "Chitwan",
+    "province_number": 3,
+    "alternate_names": []
+  },
+  {
+    "name": "Dhading",
+    "province_number": 3,
+    "alternate_names": []
+  },
+  {
+    "name": "Dolakha",
+    "province_number": 3,
+    "alternate_names": []
+  },
+  {
+    "name": "Kathmandu",
+    "province_number": 3,
+    "alternate_names": []
+  },
+  {
+    "name": "Kavrepalanchok",
+    "province_number": 3,
+    "alternate_names": ["Kavrepalanchowk"]
+  },
+  {
+    "name": "Lalitpur",
+    "province_number": 3,
+    "alternate_names": []
+  },
+  {
+    "name": "Makwanpur",
+    "province_number": 3,
+    "alternate_names": []
+  },
+  {
+    "name": "Nuwakot",
+    "province_number": 3,
+    "alternate_names": []
+  },
+  {
+    "name": "Ramechhap",
+    "province_number": 3,
+    "alternate_names": []
+  },
+  {
+    "name": "Rasuwa",
+    "province_number": 3,
+    "alternate_names": []
+  },
+  {
+    "name": "Sindhuli",
+    "province_number": 3,
+    "alternate_names": []
+  },
+  {
+    "name": "Sindhupalchok",
+    "province_number": 3,
+    "alternate_names": ["Sindhupalchowk"]
+  },
+  {
+    "name": "Baglung",
+    "province_number": 4,
+    "alternate_names": []
+  },
+  {
+    "name": "Gorkha",
+    "province_number": 4,
+    "alternate_names": []
+  },
+  {
+    "name": "Kaski",
+    "province_number": 4,
+    "alternate_names": []
+  },
+  {
+    "name": "Lamjung",
+    "province_number": 4,
+    "alternate_names": []
+  },
+  {
+    "name": "Manang",
+    "province_number": 4,
+    "alternate_names": []
+  },
+  {
+    "name": "Mustang",
+    "province_number": 4,
+    "alternate_names": []
+  },
+  {
+    "name": "Myagdi",
+    "province_number": 4,
+    "alternate_names": []
+  },
+  {
+    "name": "Nawalpur",
+    "province_number": 4,
+    "alternate_names": ["Nawalparasi East"]
+  },
+  {
+    "name": "Parbat",
+    "province_number": 4,
+    "alternate_names": []
+  },
+  {
+    "name": "Syangja",
+    "province_number": 4,
+    "alternate_names": []
+  },
+  {
+    "name": "Tanahun",
+    "province_number": 4,
+    "alternate_names": []
+  },
+  {
+    "name": "Arghakhanchi",
+    "province_number": 5,
+    "alternate_names": []
+  },
+  {
+    "name": "Banke",
+    "province_number": 5,
+    "alternate_names": []
+  },
+  {
+    "name": "Bardiya",
+    "province_number": 5,
+    "alternate_names": []
+  },
+  {
+    "name": "Dang Deukhuri",
+    "province_number": 5,
+    "alternate_names": ["Dang"]
+  },
+  {
+    "name": "Eastern Rukum",
+    "province_number": 5,
+    "alternate_names": ["Rukum East"]
+  },
+  {
+    "name": "Gulmi",
+    "province_number": 5,
+    "alternate_names": []
+  },
+  {
+    "name": "Kapilvastu",
+    "province_number": 5,
+    "alternate_names": []
+  },
+  {
+    "name": "Palpa",
+    "province_number": 5,
+    "alternate_names": []
+  },
+  {
+    "name": "Parasi",
+    "province_number": 5,
+    "alternate_names": ["Nawalparasi West"]
+  },
+  {
+    "name": "Pyuthan",
+    "province_number": 5,
+    "alternate_names": []
+  },
+  {
+    "name": "Rolpa",
+    "province_number": 5,
+    "alternate_names": []
+  },
+  {
+    "name": "Rupandehi",
+    "province_number": 5,
+    "alternate_names": []
+  },
+  {
+    "name": "Dailekh",
+    "province_number": 6,
+    "alternate_names": []
+  },
+  {
+    "name": "Dolpa",
+    "province_number": 6,
+    "alternate_names": []
+  },
+  {
+    "name": "Humla",
+    "province_number": 6,
+    "alternate_names": []
+  },
+  {
+    "name": "Jajarkot",
+    "province_number": 6,
+    "alternate_names": []
+  },
+  {
+    "name": "Jumla",
+    "province_number": 6,
+    "alternate_names": []
+  },
+  {
+    "name": "Kalikot",
+    "province_number": 6,
+    "alternate_names": []
+  },
+  {
+    "name": "Mugu",
+    "province_number": 6,
+    "alternate_names": []
+  },
+  {
+    "name": "Salyan",
+    "province_number": 6,
+    "alternate_names": []
+  },
+  {
+    "name": "Surkhet",
+    "province_number": 6,
+    "alternate_names": []
+  },
+  {
+    "name": "Western Rukum",
+    "province_number": 6,
+
+    "alternate_names": ["Rukum West"]
+  },
+  {
+    "name": "Achham",
+    "province_number": 7,
+    "alternate_names": []
+  },
+  {
+    "name": "Baitadi",
+    "province_number": 7,
+    "alternate_names": []
+  },
+  {
+    "name": "Bajhang",
+    "province_number": 7,
+    "alternate_names": []
+  },
+  {
+    "name": "Bajura",
+    "province_number": 7,
+    "alternate_names": []
+  },
+  {
+    "name": "Dadeldhura",
+    "province_number": 7,
+    "alternate_names": []
+  },
+  {
+    "name": "Darchula",
+    "province_number": 7,
+    "alternate_names": []
+  },
+  {
+    "name": "Doti",
+    "province_number": 7,
+    "alternate_names": []
+  },
+  {
+    "name": "Kailali",
+    "province_number": 7,
+    "alternate_names": []
+  },
+  {
+    "name": "Kanchanpur",
+    "province_number": 7,
+    "alternate_names": []
+  }
+]
