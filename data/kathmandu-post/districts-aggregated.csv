@@ -2694,3 +2694,80 @@ Date,Province,District,Confirmed,Deaths,Recovered,Readmitted
 2020-08-10,Province 1,Terhathum,10,0,8,0
 2020-08-10,Province 1,Udayapur,97,0,82,0
 2020-08-10,Karnali,Western Rukum,42,0,31,0
+2020-08-11,Sudurpashchim,Achham,731,1,556,0
+2020-08-11,Province 5,Arghakhanchi,347,1,320,0
+2020-08-11,Gandaki,Baglung,266,1,220,0
+2020-08-11,Sudurpashchim,Baitadi,323,0,300,0
+2020-08-11,Sudurpashchim,Bajhang,296,1,107,0
+2020-08-11,Sudurpashchim,Bajura,622,1,253,0
+2020-08-11,Province 5,Banke,670,3,415,0
+2020-08-11,Province 2,Bara,327,3,141,0
+2020-08-11,Province 5,Bardiya,254,0,200,0
+2020-08-11,Bagmati,Bhaktapur,97,0,31,0
+2020-08-11,Province 1,Bhojpur,8,0,6,0
+2020-08-11,Bagmati,Chitwan,143,2,81,0
+2020-08-11,Sudurpashchim,Dadeldhura,312,0,267,0
+2020-08-11,Karnali,Dailekh,966,1,805,0
+2020-08-11,Province 5,Dang Deukhuri,720,1,559,0
+2020-08-11,Sudurpashchim,Darchula,41,0,13,0
+2020-08-11,Bagmati,Dhading,166,0,125,0
+2020-08-11,Province 1,Dhankuta,17,0,15,0
+2020-08-11,Province 2,Dhanusa,880,6,580,0
+2020-08-11,Bagmati,Dolakha,16,1,9,0
+2020-08-11,Karnali,Dolpa,5,1,2,0
+2020-08-11,Sudurpashchim,Doti,768,0,537,0
+2020-08-11,Province 5,Eastern Rukum,12,0,8,0
+2020-08-11,Gandaki,Gorkha,140,1,100,0
+2020-08-11,Province 5,Gulmi,379,3,350,0
+2020-08-11,Karnali,Humla,4,0,2,0
+2020-08-11,Province 1,Ilam,81,0,28,0
+2020-08-11,Karnali,Jajarkot,29,0,12,0
+2020-08-11,Province 1,Jhapa,408,0,322,0
+2020-08-11,Karnali,Jumla,76,0,68,0
+2020-08-11,Sudurpashchim,Kailali,1277,4,530,0
+2020-08-11,Karnali,Kalikot,80,0,54,0
+2020-08-11,Sudurpashchim,Kanchanpur,575,0,483,0
+2020-08-11,Province 5,Kapilvastu,896,1,747,0
+2020-08-11,Gandaki,Kaski,175,1,104,0
+2020-08-11,Bagmati,Kathmandu,1057,7,110,0
+2020-08-11,Bagmati,Kavrepalanchok,38,1,23,0
+2020-08-11,Province 1,Khotang,19,0,15,0
+2020-08-11,Bagmati,Lalitpur,158,1,30,0
+2020-08-11,Gandaki,Lamjung,119,0,93,0
+2020-08-11,Province 2,Mahottari,941,0,344,0
+2020-08-11,Bagmati,Makwanpur,83,0,21,0
+2020-08-11,Gandaki,Manang,1,0,1,0
+2020-08-11,Province 1,Morang,608,5,218,0
+2020-08-11,Karnali,Mugu,12,0,4,0
+2020-08-11,Gandaki,Mustang,1,0,2062,0
+2020-08-11,Gandaki,Myagdi,51,1,41,0
+2020-08-11,Gandaki,Nawalpur,347,0,301,0
+2020-08-11,Bagmati,Nuwakot,61,0,21,0
+2020-08-11,Province 1,Okhaldhunga,25,0,19,0
+2020-08-11,Province 5,Palpa,570,1,556,0
+2020-08-11,Province 1,Panchthar,9,0,7,0
+2020-08-11,Province 5,Parasi,134,0,125,0
+2020-08-11,Gandaki,Parbat,107,0,92,0
+2020-08-11,Province 2,Parsa,1215,19,176,0
+2020-08-11,Province 5,Pyuthan,375,0,331,0
+2020-08-11,Bagmati,Ramechhap,49,0,20,0
+2020-08-11,Bagmati,Rasuwa,12,0,11,0
+2020-08-11,Province 2,Rautahat,1593,2,750,0
+2020-08-11,Province 5,Rolpa,75,0,51,0
+2020-08-11,Province 5,Rupandehi,416,1,311,0
+2020-08-11,Karnali,Salyan,279,0,193,0
+2020-08-11,Province 1,Sankhuwasabha,6,0,6,0
+2020-08-11,Province 2,Saptari,587,2,353,0
+2020-08-11,Province 2,Sarlahi,964,2,628,0
+2020-08-11,Bagmati,Sindhuli,31,0,17,0
+2020-08-11,Bagmati,Sindhupalchok,74,3,35,0
+2020-08-11,Province 2,Siraha,284,1,192,0
+2020-08-11,Province 1,Solukhumbu,9,0,7,0
+2020-08-11,Province 1,Sunsari,235,0,118,0
+2020-08-11,Karnali,Surkhet,608,2,551,0
+2020-08-11,Gandaki,Syangja,316,2,192,0
+2020-08-11,Gandaki,Tanahun,191,0,161,0
+2020-08-11,Province 1,Taplejung,15,0,7,0
+2020-08-11,Province 1,Terhathum,10,0,8,0
+2020-08-11,Province 1,Udayapur,113,0,82,0
+2020-08-11,Karnali,Western Rukum,43,0,31,0
