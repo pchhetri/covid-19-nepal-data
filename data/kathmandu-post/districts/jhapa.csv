@@ -46,3 +46,4 @@ Date,Province,District,Confirmed,Deaths,Recovered,Readmitted
 2020-08-20,Province 1,Jhapa,476,0,322,0
 2020-08-21,Province 1,Jhapa,483,0,322,0
 2020-08-22,Province 1,Jhapa,500,0,322,0
+2020-08-23,Province 1,Jhapa,510,1,322,0
