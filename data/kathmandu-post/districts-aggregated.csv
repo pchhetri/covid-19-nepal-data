@@ -6159,3 +6159,80 @@ Date,Province,District,Confirmed,Deaths,Recovered,Readmitted
 2020-09-24,Province 1,Terhathum,33,0,8,0
 2020-09-24,Province 1,Udayapur,158,1,82,0
 2020-09-24,Karnali,Western Rukum,119,0,31,0
+2020-09-25,Sudurpashchim,Achham,1042,2,556,0
+2020-09-25,Province 5,Arghakhanchi,454,2,320,0
+2020-09-25,Gandaki,Baglung,400,1,220,0
+2020-09-25,Sudurpashchim,Baitadi,426,0,300,0
+2020-09-25,Sudurpashchim,Bajhang,555,1,107,0
+2020-09-25,Sudurpashchim,Bajura,631,1,253,0
+2020-09-25,Province 5,Banke,1780,12,415,0
+2020-09-25,Province 2,Bara,1401,18,141,0
+2020-09-25,Province 5,Bardiya,644,3,200,0
+2020-09-25,Bagmati,Bhaktapur,1793,19,31,0
+2020-09-25,Province 1,Bhojpur,46,0,6,0
+2020-09-25,Bagmati,Chitwan,1926,17,81,0
+2020-09-25,Sudurpashchim,Dadeldhura,349,0,267,0
+2020-09-25,Karnali,Dailekh,1108,1,805,0
+2020-09-25,Province 5,Dang Deukhuri,1096,2,559,0
+2020-09-25,Sudurpashchim,Darchula,92,0,13,0
+2020-09-25,Bagmati,Dhading,422,3,125,0
+2020-09-25,Province 1,Dhankuta,57,0,15,0
+2020-09-25,Province 2,Dhanusa,1952,19,580,0
+2020-09-25,Bagmati,Dolakha,125,4,9,0
+2020-09-25,Karnali,Dolpa,6,1,2,0
+2020-09-25,Sudurpashchim,Doti,1073,0,537,0
+2020-09-25,Province 5,Eastern Rukum,53,0,8,0
+2020-09-25,Gandaki,Gorkha,382,5,100,0
+2020-09-25,Province 5,Gulmi,534,3,350,0
+2020-09-25,Karnali,Humla,5,0,2,0
+2020-09-25,Province 1,Ilam,102,0,28,0
+2020-09-25,Karnali,Jajarkot,71,0,12,0
+2020-09-25,Province 1,Jhapa,859,7,322,0
+2020-09-25,Karnali,Jumla,224,0,68,0
+2020-09-25,Sudurpashchim,Kailali,2254,6,530,0
+2020-09-25,Karnali,Kalikot,117,0,54,0
+2020-09-25,Sudurpashchim,Kanchanpur,779,0,483,0
+2020-09-25,Province 5,Kapilvastu,1345,12,747,0
+2020-09-25,Gandaki,Kaski,915,11,104,0
+2020-09-25,Bagmati,Kathmandu,16263,86,110,0
+2020-09-25,Bagmati,Kavrepalanchok,489,5,23,0
+2020-09-25,Province 1,Khotang,55,0,15,0
+2020-09-25,Bagmati,Lalitpur,1918,17,30,0
+2020-09-25,Gandaki,Lamjung,381,0,93,0
+2020-09-25,Province 2,Mahottari,1496,12,344,0
+2020-09-25,Bagmati,Makwanpur,1296,11,21,0
+2020-09-25,Gandaki,Manang,4,0,1,0
+2020-09-25,Province 1,Morang,3044,32,218,0
+2020-09-25,Karnali,Mugu,13,0,4,0
+2020-09-25,Gandaki,Mustang,1,0,37264,0
+2020-09-25,Gandaki,Myagdi,54,1,41,0
+2020-09-25,Gandaki,Nawalpur,930,3,301,0
+2020-09-25,Bagmati,Nuwakot,154,0,21,0
+2020-09-25,Province 1,Okhaldhunga,108,0,19,0
+2020-09-25,Province 5,Palpa,772,4,556,0
+2020-09-25,Province 1,Panchthar,36,0,7,0
+2020-09-25,Province 5,Parasi,461,6,125,0
+2020-09-25,Gandaki,Parbat,135,0,92,0
+2020-09-25,Province 2,Parsa,2666,45,176,0
+2020-09-25,Province 5,Pyuthan,561,2,331,0
+2020-09-25,Bagmati,Ramechhap,151,1,20,0
+2020-09-25,Bagmati,Rasuwa,18,1,11,0
+2020-09-25,Province 2,Rautahat,2107,7,750,0
+2020-09-25,Province 5,Rolpa,134,0,51,0
+2020-09-25,Province 5,Rupandehi,2409,20,311,0
+2020-09-25,Karnali,Salyan,381,0,193,0
+2020-09-25,Province 1,Sankhuwasabha,84,0,6,0
+2020-09-25,Province 2,Saptari,1187,9,353,0
+2020-09-25,Province 2,Sarlahi,2404,7,628,0
+2020-09-25,Bagmati,Sindhuli,115,0,17,0
+2020-09-25,Bagmati,Sindhupalchok,153,5,35,0
+2020-09-25,Province 2,Siraha,1349,11,192,0
+2020-09-25,Province 1,Solukhumbu,16,0,7,0
+2020-09-25,Province 1,Sunsari,1714,12,118,0
+2020-09-25,Karnali,Surkhet,1301,3,551,0
+2020-09-25,Gandaki,Syangja,454,3,192,0
+2020-09-25,Gandaki,Tanahun,448,5,161,0
+2020-09-25,Province 1,Taplejung,23,0,7,0
+2020-09-25,Province 1,Terhathum,34,0,8,0
+2020-09-25,Province 1,Udayapur,158,1,82,0
+2020-09-25,Karnali,Western Rukum,119,0,31,0
