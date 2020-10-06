@@ -90,3 +90,4 @@ Date,Province,District,Confirmed,Deaths,Recovered,Readmitted
 2020-10-03,Province 1,Terhathum,40,0,8,0
 2020-10-04,Province 1,Terhathum,40,0,8,0
 2020-10-05,Province 1,Terhathum,41,0,8,0
+2020-10-06,Province 1,Terhathum,41,1,8,0
