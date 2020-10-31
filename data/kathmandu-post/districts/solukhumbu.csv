@@ -114,3 +114,4 @@ Date,Province,District,Confirmed,Deaths,Recovered,Readmitted
 2020-10-28,Province 1,Solukhumbu,37,0,7,0
 2020-10-29,Province 1,Solukhumbu,37,0,7,0
 2020-10-30,Province 1,Solukhumbu,39,0,7,0
+2020-10-31,Province 1,Solukhumbu,40,1,7,0
