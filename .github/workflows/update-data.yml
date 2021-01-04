@@ -5,9 +5,6 @@ on:
     # Runs everyday at:
     # 15:15 UTC (GMT0:00) -> 21:00 Nepal Time (GMT+5:45)
     - cron: '15 15 * * *'
-  push:
-    branches:
-      - master
 
 jobs:
   update:
