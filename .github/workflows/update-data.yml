@@ -1,8 +1,13 @@
+name: Update Data
+
 on:
   schedule:
     # Runs everyday at:
     # 15:15 UTC (GMT0:00) -> 21:00 Nepal Time (GMT+5:45)
     - cron: '15 15 * * *'
+  push:
+    branches:
+      - master
 
 jobs:
   update:
@@ -15,7 +20,7 @@ jobs:
         with:
           node-version: '12'
       - name: Install node dependencies
-        run: npm install
+        run: npm install --only=production
       - name: Scrape and Update Data
         run: npm run scrape
       - name: Commit files
@@ -23,7 +28,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit --allow-empty -m "Auto-update of the data packages" -a
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git push
